@@ -3,7 +3,7 @@
 ## After the school district analysis has been completed, it was discovered that the grades of the ninth graders at Thomas High School have been dishonestly changed. 
 To eliminate that the incorrect values were replaced them with NaN.
 
-## Here is a summary regarding any changes of the initial reports.
+## Here is a summary regarding the changes of the initial School District Analysis reports.
 
 1. How is the district summary affected?
 Average Math Score slightly reduced from 79.0 to 78.9; Average Reading Score remains the same, as 81.9.	
