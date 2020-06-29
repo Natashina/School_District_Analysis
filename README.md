@@ -1,6 +1,6 @@
 # School_District_Analysis
 
-### After the school district analysis had been completed, it was discovered that the grades of the ninth graders at Thomas High School have been dishonestly changed. 
+### After the school district analysis have been completed, it was discovered that the grades of the ninth graders at Thomas High School had been dishonestly changed. 
 To eliminate that the incorrect values were replaced with NaN.
 
 ## Here is a summary regarding the changes of the initial School District Analysis reports.
