@@ -11,7 +11,7 @@ Average Math Score slightly reduced from 79.0 to 78.9; Average Reading Score rem
 
 2. How is the school summary affected?
 While Average Math score and Average Reading Score almost have not changed for Thomas high School (83.4 vs 83.4) and (83.8 vs 83.9), the percentage of passing Math, Reading and Overall significantly reduced: from 93.3 to 66.9; 97.3 to 69.7; 90.9 to 65.07 respectively.
-Indeed, the correct number of students who passed Math and Reading tests is now equals to 1064 which is 65.07% from total munber of students of 1635.(1064/1635*100%)
+Indeed, the correct number of students who passed Math and Reading tests is now equals to 1064 which is 65.07% from total munber of students of 1635 (1064/1635*100%).
 
 3. How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance, relative to the other schools?
 Thomas High School second position from the entire list of schools changed to eighth position.
