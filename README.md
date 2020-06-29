@@ -20,12 +20,15 @@ Thomas High School second position from the entire list of schools changed to ei
   How does replacing the ninth-grade scores affect the following?
   
   4.1 Math and Reading Scores by Grade
+  
   Only 9th grade was effected by the change and this grade has no scores or NaN, the scores for the rest of the grades, 10-12th grades have remained the same.
   
   4.2 Scores by School Spending
-  Since Thomas High School is in the category of "spending range per student $630-644, for this group of schools % passing Math changed from 73 to 67; % Passing Reading changed  from 84 to 77 and % of Overall Passing reduced from 63 to 56.
+  
+  Since Thomas High School is in the category of "spending range per student $630-644, for this group of schools % passing Math changed from 73 to 67; % Passing Reading changed    from 84 to 77 and % of Overall Passing reduced from 63 to 56.
   
   4.3 Scores by School Size
+  
   Thomas High Shool is a medium school, the same metrics have been reduced for this category of schools:
   -% passing math from 94 to 88
   -% passing reading from 97 to 91
