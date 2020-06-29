@@ -21,7 +21,7 @@ Thomas High School second position from the entire list of schools changed to ei
   
   4.1 Math and Reading Scores by Grade
   
-  Only 9th grade was effected by the change and this grade has no scores or NaN, the scores for the rest of the grades, 10-12th grades have remained the same.
+  Only 9th grade was effected by the change and this grade has no scores or NaN, the scores for the rest of the grades, 10-12th grades, have remained the same.
   
   4.2 Scores by School Spending
   
@@ -30,16 +30,16 @@ Thomas High School second position from the entire list of schools changed to ei
   4.3 Scores by School Size
   
   Thomas High Shool is a medium school, the same metrics have been reduced for this category of schools:
-  -% passing math from 94 to 88
-  -% passing reading from 97 to 91
-  -% Overall passing from 91 to 85
+  -% passing math from 94 to 88,
+  -% passing reading from 97 to 91,
+  -% Overall passing from 91 to 85.
 
   4.4 Scores by School Type
   
   Since Thomas High School is a Charter school there are changes for this type of school:
-  -% passing math from 94 to 90
-  -% passing reading from 97 to 93
-  -% Overall passing from 90 to 87
+  -% passing math from 94 to 90,
+  -% passing reading from 97 to 93,
+  -% Overall passing from 90 to 87.
   
   
   
