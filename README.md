@@ -1,9 +1,9 @@
 # School_District_Analysis
 
-### After the school district analysis has been completed, it was discovered that the grades of the ninth graders at Thomas High School have been dishonestly changed. 
+## After the school district analysis has been completed, it was discovered that the grades of the ninth graders at Thomas High School have been dishonestly changed. 
 To eliminate that the incorrect values were replaced them with NaN.
 
-Here is a summary regarding any changes of the initial reports.
+## Here is a summary regarding any changes of the initial reports.
 
 1. How is the district summary affected?
 Average Math Score slightly reduced from 79.0 to 78.9; Average Reading Score remains the same, as 81.9.	
@@ -19,21 +19,21 @@ Thomas High School second position from the entire list of schools changed to ei
 4. The scores by grade, scores by school spending, scores by school size, and scores by school type have been recalculated.
   How does replacing the ninth-grade scores affect the following?
   
-4.1 Math and Reading Scores by Grade
+  4.1 Math and Reading Scores by Grade
   Only 9th grade was effected by the change and this grade has no scores or NaN, the scores for the rest of the grades, 10-12th grades have remained the same.
   
-4.2 Scores by School Spending
-Since Thomas High School is in the category of "spending range per student $630-644, for this group of schools % passing Math changed from 73 to 67; % Passing Reading changed from 84 to 77 and % of Overall Passing reduced from 63 to 56.
+  4.2 Scores by School Spending
+  Since Thomas High School is in the category of "spending range per student $630-644, for this group of schools % passing Math changed from 73 to 67; % Passing Reading changed  from 84 to 77 and % of Overall Passing reduced from 63 to 56.
   
-4.3 Scores by School Size
-Thomas High Shool is a medium school, the same metrics have been reduced for this category of schools:
--% passing math from 94 to 88
--% passing reading from 97 to 91
--% Overall passing from 91 to 85
+  4.3 Scores by School Size
+  Thomas High Shool is a medium school, the same metrics have been reduced for this category of schools:
+  -% passing math from 94 to 88
+  -% passing reading from 97 to 91
+  -% Overall passing from 91 to 85
 
-4.4 Scores by School Type
+  4.4 Scores by School Type
   
-Since Thomas High School is a Charter school there are changes for this type of school:
+  Since Thomas High School is a Charter school there are changes for this type of school:
   -% passing math from 94 to 90
   -% passing reading from 97 to 93
   -% Overall passing from 90 to 87
